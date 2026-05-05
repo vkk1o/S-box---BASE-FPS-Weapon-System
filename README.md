@@ -1,6 +1,6 @@
 # S&box FPS Weapon System
 
-> 🇷🇺 [Русская версия](#русская-версия) | 🇬🇧 [English version](#english-version)
+> 🇬🇧 [English version](#english-version) | 🇷🇺 [Русская версия](#русская-версия)
 
 ---
 
