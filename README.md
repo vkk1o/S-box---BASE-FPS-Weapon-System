@@ -8,6 +8,14 @@
 
 ## English Version
 
+###Update:
+
+I didn't edit the description; I'm too lazy.
+
+Added - gunshot sounds for the m4a1
+Added - Switching weapons/fists/empty to keys 1-3.
+Added new code - WeaponSwitcher connected to the WeaponModel hierarchy, which is used to switch.
+
 ### Description
 A basic first-person shooting system for S&box built on the Scene/Component system.
 Designed as a starting point for FPS games.
@@ -241,6 +249,15 @@ public sealed class Shooting : Component
 ---
 
 ## Русская Версия
+
+###Обновление:
+
+Описание не исправлял, мне лень.
+
+Добавлены - звуки выстрелов для m4a1
+Добавлены - Смена оружие/кулаки/пусто на клавиши 1-3. 
+Добавлен новый код - WeaponSwitcher подключенный к иерархии WeaponModel, с помощью которого происходит смена.
+
 
 ### Описание
 Базовая система стрельбы от первого лица для S&box на основе компонентной системы (Scene System). Подходит как стартовая точка для FPS игр.
