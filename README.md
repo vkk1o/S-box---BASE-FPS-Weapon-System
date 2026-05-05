@@ -2,6 +2,8 @@
 
 <img width="2136" height="1080" alt="Без имени-1" src="https://github.com/user-attachments/assets/b3bec65d-0c11-47e3-959e-a5e2193005c1" />
 
+---
+
 > 🇬🇧 [English version](#english-version) | 🇷🇺 [Русская версия](#русская-версия)
 
 ---
