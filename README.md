@@ -9,7 +9,8 @@
 ## English Version
 
 ### Description
-A basic first-person shooting system for S&box built on the Scene/Component system. Designed as a starting point for FPS games.
+A basic first-person shooting system for S&box built on the Scene/Component system.
+Designed as a starting point for FPS games.
 
 ### Features
 - Automatic and semi-automatic firing modes
