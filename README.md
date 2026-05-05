@@ -12,7 +12,7 @@
 
 I didn't edit the description; I'm too lazy.
 
-- Added - gunshot sounds for the m4a1.
+- Added - Gunshot sounds for the M4a1.
 - Added - Switching weapons/fists/empty to keys 1-3.
 - Added new code - WeaponSwitcher connected to the WeaponModel hierarchy, which is used to switch.
 
@@ -254,7 +254,7 @@ public sealed class Shooting : Component
 
 Описание не исправлял, мне лень.
 
-- Добавлены - звуки выстрелов для m4a1.
+- Добавлены - Звуки выстрелов для M4a1.
 - Добавлены - Смена оружие/кулаки/пусто на клавиши 1-3. 
 - Добавлен новый код - WeaponSwitcher подключенный к иерархии WeaponModel, с помощью которого происходит смена.
 
