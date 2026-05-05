@@ -61,6 +61,11 @@ public sealed class Shooting : Component
 
 		_timeSinceShot = 0;
 		_currentAmmo--;
+		if ( ShootSound is not null )
+		{
+			var snd = Sound.Play( ShootSound, WorldPosition );
+			snd.Volume = 0.03f; // 0.0 = тихо, 1.0 = максимум
+		}
 
 		WeaponModel?.Set( "b_attack", true );
 
