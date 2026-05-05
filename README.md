@@ -342,5 +342,5 @@ Camera
 - `particles/muzzleflash/rifle_muzzleflash` — вспышка дула
 - `particles/muzzleflash/impact.generic` — эффект попадания
 
-- <img width="343" height="836" alt="image" src="https://github.com/user-attachments/assets/b067c229-78c6-46af-8cbd-a7462f6baec3" />
+<img width="343" height="836" alt="image" src="https://github.com/user-attachments/assets/b067c229-78c6-46af-8cbd-a7462f6baec3" />
 
